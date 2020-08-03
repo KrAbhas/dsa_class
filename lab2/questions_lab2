@@ -1,0 +1,31 @@
+               Questions based on: Dynamic memory allocation, array and pointers:
+                          
+                          
+Question 1:
+Perform following operations on 1-D array:
+  a. Insering elements at given positions.
+  b. Deleting elements from a positions.
+  c. Searching the position of an element.
+  d. Sorting the array using bubble sort.
+  e. Reverse the array without using a second array.
+ Do this question as a menue driven program.
+ 
+ Question 2:
+ Perform following operations on 1-D array:
+  a. Insering elements at given positions.
+  b. Deleting elements from a positions.
+  c. Searching the position of an element.
+  d. Sorting the array using bubble sort.
+  e. Reverse the array without using a second array.
+ Do this question as a menue driven program using dynamic memory allocation.
+ 
+ Question 3:
+ WAP to merge 2 sorted array and store it in 3rd array without using sorting algorithm.
+ 
+ Question 4:
+ WAP to implement a function add which takes 2 matrix as argument and gives the sum in third matrix.
+ All actions must be performed using dynamic memory allocation and pointers.
+ 
+ Question 5:
+ Wap to enter details of a student like name, roll no and marks of 5 subjects.
+ Find total marks and avg marks using array of structure. Use dynamic memory allocation.
